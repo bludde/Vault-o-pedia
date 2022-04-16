@@ -1,7 +1,7 @@
 {
     "name": "Statue Cauldron",
     "icon": "the_vault:statue_cauldron",
-    "category": "patchouli:5statues",
+    "category": "patchouli:statues",
     "pages": [
         {
             "type": "link",

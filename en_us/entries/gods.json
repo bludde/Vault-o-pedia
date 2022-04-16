@@ -1,7 +1,7 @@
 {
     "name": "Gods",
     "icon": "the_vault:idol_timekeeper",
-    "category": "patchouli:10the_goal",
+    "category": "patchouli:the_goal",
     "pages": [
         {
             "type": "link",

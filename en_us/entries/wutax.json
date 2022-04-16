@@ -1,7 +1,7 @@
 {
     "name": "Wutaxing",
     "icon": "the_vault:wutax_crystal",
-    "category": "patchouli:4vault_gear",
+    "category": "patchouli:vault_gear",
     "pages": [
         {
             "type": "text",

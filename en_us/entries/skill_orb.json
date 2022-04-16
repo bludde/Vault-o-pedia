@@ -1,7 +1,7 @@
 {
     "name": "Skill Orb",
     "icon": "the_vault:skill_orb",
-    "category": "patchouli:6skills&abilitys",
+    "category": "patchouli:skills&abilitys",
     "pages": [
         {
             "type": "link",

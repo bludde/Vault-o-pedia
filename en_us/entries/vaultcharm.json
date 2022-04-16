@@ -1,0 +1,41 @@
+{
+    "name": "Vault Charm",
+    "icon": "the_vault:vault_charm_controller",
+    "category": "patchouli:mods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "The \"vault looter\" research is a good quality of life addition. It will when the Vault charm is in your inventory inside of a vault remove all the items that are picked up. BUT the items need to be specified in the VC Inscription table"
+        },
+		{
+			"type": "crafting",
+			"recipe": "the_vault:vault_charm",
+			"text": "Need to be in your inventory when running a vault to remove items picked up. ONLY WORK INSIDE OF VAULT"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:vault_charm_controller",
+			"text": "Here you specify what block the charm will delete when in a vault. Starts out with just 9 slots and can be upgraded later with upgrades for more slots"
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:vault_stone",
+			"text": "Needed to create your VC inscription table, can be found in \"Vault troves crystals\" and sometimes in the factory room in the vault (only 4 is ever needed)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:charm_upgrade_tier_1",
+			"text": "First upgrade of the VC inscription table, have in your hand and then rightclick the table. Needs to be upgrade from 0-1 and 1-2 and so on, you can not go directly to level 3 upgrade"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:charm_upgrade_tier_2",
+			"text": "Need to be upgraded with T1 upgrade first. now will have 162 slots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:charm_upgrade_tier_3",
+			"text": "Need to be upgraded with T2 upgrade first. now will have 1026 slots"
+		}
+    ]
+}

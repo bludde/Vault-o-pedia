@@ -1,7 +1,7 @@
 {
     "name": "Identification Tome",
     "icon": "the_vault:identification_tome",
-    "category": "patchouli:4vault_gear",
+    "category": "patchouli:vault_gear",
     "pages": [
         {
             "type": "text",

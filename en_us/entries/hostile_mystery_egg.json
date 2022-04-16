@@ -1,7 +1,7 @@
 {
     "name": "Hostile Mystery Egg",
     "icon": "the_vault:mystery_hostile_egg",
-    "category": "patchouli:3vault_mobs",
+    "category": "patchouli:vault_mobs",
     "pages": [
         {
             "type": "text",

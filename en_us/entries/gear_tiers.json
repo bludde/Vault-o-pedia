@@ -1,7 +1,7 @@
 {
     "name": "Tiers of Gear",
     "icon": "the_vault:gear_charm",
-    "category": "patchouli:4vault_gear",
+    "category": "patchouli:vault_gear",
     "pages": [
         {
             "type": "link",

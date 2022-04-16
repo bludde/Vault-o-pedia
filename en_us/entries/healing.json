@@ -1,7 +1,7 @@
 {
     "name": "Healing in Vaults",
     "icon": "minecraft:golden_apple",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "text",
@@ -9,7 +9,8 @@
         },
 		{
 			"type": "crafting",
-			"recipe": "crafttweaker:goldenapple"
+			"recipe": "crafttweaker:goldenapple",
+			"text": "Normal golden apples are somewhat more expensive in vaulthunters so be sure to build a gold farm early on"
 		}
     ]
 }

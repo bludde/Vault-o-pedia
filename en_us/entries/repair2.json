@@ -1,7 +1,7 @@
 {
     "name": "Repair",
     "icon": "the_vault:repair_core",
-    "category": "patchouli:4vault_gear",
+    "category": "patchouli:vault_gear",
     "pages": [
         {
             "type": "link",

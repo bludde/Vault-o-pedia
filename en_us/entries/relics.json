@@ -1,7 +1,7 @@
 {
     "name": "Relics",
     "icon": "the_vault:relic_booster_pack",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "text",
@@ -9,16 +9,18 @@
         },
 		{
 			"type": "spotlight",
-			"item": "the_vault:relic_booster_pack"
-		}
-		,
-		{
-			"type": "spotlight",
-			"item": "the_vault:unidentified_relic"
+			"item": "the_vault:relic_booster_pack",
+			"text": "Found rather common in chest in the vault. When used it will give a small amount of vault xp and has a rare chance to drop a mystery box or a piece of a vault set"
 		},
 		{
 			"type": "spotlight",
-			"item": "the_vault:relic_statue"
+			"item": "the_vault:unidentified_relic",
+			"text": "Found in boss creates and will give one random guaranteed vualtset piece"
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:relic_statue",
+			"text": "Crafted by combining 5 vaultset pieces that are from the same set in a crafting table$(br2)When every (non duplicate) Relic statue that is placed it will grant 30 extra seconds in every vault from that point on. There is 9 sets so a maximum of 4:30min can be gained."
 		}
     ]
 }

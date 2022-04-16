@@ -1,7 +1,7 @@
 {
     "name": "Traders",
     "icon": "the_vault:trader_core",
-    "category": "patchouli:5statues",
+    "category": "patchouli:statues",
     "pages": [
         {
             "type": "link",

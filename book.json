@@ -1,6 +1,6 @@
 {
     "name": "Vault'o'pedia",
-    "landing_text": "Information about basic functions in the Vaulthunter modpack",
+    "landing_text": "Information about basic functions in the Vaulthunter modpack$(br)$(br)Created by bludde go give me a follow at $(l:https://twitch.tv/bludde)twitch$(/l)",
 	"book_texture": "patchouli:textures/gui/book_purple.png",
 	"model": "patchouli:book_purple",
     "version": 1

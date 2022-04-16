@@ -1,7 +1,7 @@
 {
     "name": "Vault Modifiers",
     "icon": "the_vault:scavenger_skeleton_skull",
-    "category": "patchouli:2perfecting_your_cystals",
+    "category": "patchouli:perfecting_your_cystals",
     "pages": [
         {
             "type": "link",

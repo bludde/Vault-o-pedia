@@ -1,7 +1,7 @@
 {
     "name": "Wiki Skills & Talents",
     "icon": "minecraft:enchanted_book",
-    "category": "patchouli:6skills&abilitys",
+    "category": "patchouli:skills&abilitys",
     "pages": [
         {
             "type": "link",

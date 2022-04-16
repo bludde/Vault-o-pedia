@@ -1,7 +1,7 @@
 {
     "name": "Gifter Statues",
     "icon": "the_vault:gift_mega_statue",
-    "category": "patchouli:5statues",
+    "category": "patchouli:statues",
     "pages": [
         {
             "type": "link",

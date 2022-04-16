@@ -1,15 +1,22 @@
 {
     "name": "Ores",
     "icon": "the_vault:ore_iskallium",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "text",
-			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+			"text": "In the vault you will find an assortment of ore inside of the vault that can only be found inside of the Vault. There is only one ore added outside of the vault."
         },
 		{
 			"type": "spotlight",
-			"item": "the_vault:ore_alexandrite"
+			"item": "the_vault:ore_alexandrite",
+			"text": "There is an assortment of ores in the vualt, check the rarity of ores by the tooltip"
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:ore_vault_rock",
+			"text": "this is the only ore that is so strong that it has nesseld its way out of the vault and in to the overworld. Can be found on y=0-9"
+			
 		}
     ]
 }

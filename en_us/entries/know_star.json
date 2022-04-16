@@ -1,7 +1,7 @@
 {
     "name": "Knowledge Star",
     "icon": "the_vault:knowledge_star",
-    "category": "patchouli:7mods",
+    "category": "patchouli:mods",
     "pages": [
         {
             "type": "link",

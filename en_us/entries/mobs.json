@@ -1,7 +1,7 @@
 {
     "name": "Mobs of the Vault",
     "icon": "minecraft:zombie_head",
-    "category": "patchouli:3vault_mobs",
+    "category": "patchouli:vault_mobs",
     "pages": [
         {
             "type": "link",

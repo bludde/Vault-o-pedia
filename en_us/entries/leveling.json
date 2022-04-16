@@ -1,7 +1,7 @@
 {
     "name": "Leveling Up",
     "icon": "the_vault:vault_cookie",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "text",

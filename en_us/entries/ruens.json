@@ -1,7 +1,7 @@
 {
     "name": "Room Runes",
     "icon": "the_vault:vault_rune_xmark",
-    "category": "patchouli:2perfecting_your_cystals",
+    "category": "patchouli:perfecting_your_cystals",
     "pages": [
         {
             "type": "link",

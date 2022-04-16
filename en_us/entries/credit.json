@@ -1,0 +1,12 @@
+{
+    "name": "Credit",
+    "icon": "minecraft:player_head{SkullOwner:\"bludde\"}",
+    "category": "patchouli:the_goal",
+    "pages": [
+        {
+            "type": "entity",
+			"entity": "the_vault:fighter{CustomName:\"\\\"bludde\\\"\"}",
+			"text": "follow bludde the creator of the Vaultopedia here $(l:https://twitch.tv/bludde)twitch$(/l)"
+        }
+    ]
+}

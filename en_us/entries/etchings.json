@@ -1,7 +1,7 @@
 {
     "name": "Etchings",
     "icon": "the_vault:etching",
-    "category": "patchouli:4vault_gear",
+    "category": "patchouli:vault_gear",
     "pages": [
         {
             "type": "link",

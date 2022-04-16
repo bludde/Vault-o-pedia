@@ -1,7 +1,7 @@
 {
     "name": "Soulflame",
     "icon": "the_vault:soul_flame",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "link",

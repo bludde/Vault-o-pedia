@@ -1,7 +1,7 @@
 {
     "name": "Magnets",
     "icon": "the_vault:vault_magnet_weak",
-    "category": "patchouli:0getting_started",
+    "category": "patchouli:getting_started",
     "pages": [
         {
             "type": "text",
@@ -10,7 +10,7 @@
 		{
 			"type": "crafting",
 			"recipe": "crafttweaker:the_vault_vault_magnet_weak",
-			"text": "Cheap an functional magnet, get it as soon as you can and rightclick with it in your hand to aktivate it"
+			"text": "Cheap an functional magnet, get it as soon as you can and rightclick with it in your hand to activate it. (they dont make you more attractive thou)"
 		},
 		{
 			"type": "crafting",
@@ -18,9 +18,9 @@
 			"text": "Strongest magnet you can craft, good range and very instantly plop items in to your inventory"
 		},
 		{
-			"type": "spotlight",
-			"item": "the_vault:vault_magnet_omega",
-			"text": "This is the best vault magnet you can get, but it can only be found as loot"
+			"type": "crafting",
+			"recipe": "the_vault:vault_magnet_omega",
+			"text": "This is the best vault magnet you can get, but the magnet core can only be found as loot"
 		}
     ]
 }

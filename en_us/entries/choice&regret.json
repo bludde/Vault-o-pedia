@@ -1,7 +1,7 @@
 {
     "name": "Choice and Regret flasks",
     "icon": "the_vault:respec_flask",
-    "category": "patchouli:6skills&abilitys",
+    "category": "patchouli:skills&abilitys",
     "pages": [
         {
             "type": "link",

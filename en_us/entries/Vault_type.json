@@ -1,7 +1,7 @@
 {
     "name": "Vault Types",
     "icon": "the_vault:obelisk",
-    "category": "patchouli:1vault_altar",
+    "category": "patchouli:vault_altar",
     "pages": [
         {
             "type": "text",

@@ -1,7 +1,7 @@
 {
     "name": "Vault Portal",
     "icon": "minecraft:blackstone",
-    "category": "patchouli:1vault_altar",
+    "category": "patchouli:vault_altar",
     "pages": [
         {
             "type": "text",
