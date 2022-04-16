@@ -1,0 +1,13 @@
+{
+    "name": "Vault Modifiers",
+    "icon": "the_vault:scavenger_skeleton_skull",
+    "category": "patchouli:2perfecting_your_cystals",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/guide#modifiers",
+			"link_text": Modifiers,
+			"text": "On below link is a list of all modifiers that currently exist in Vault Hunters"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Leveling Up",
+    "icon": "the_vault:vault_cookie",
+    "category": "patchouli:0getting_started",
+    "pages": [
+        {
+            "type": "text",
+			"text": "There are many ways to level up your vault level as a vaulthunter. $(br)Up until lvl 100 you will get XP for killing boss and complete vaults.$(br)After 100 you need to eat juicy vault food to gain xp"
+        },
+		{
+			"type": "spotlight",
+			"item": "the_vault:vault_cookie",
+			"text": "Until you reach lvl 25 there is chances to find Vault cookies that help you lvl up but remember they only work until lvl 25"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:vault_burger",
+			"text": "main and the best levling up food after lvl 100. Material for burgers dont appear in gilded chest just normal chests. Around a stack is equal to a full level but it can varry."
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:oozing_pizza",
+			"text": "Found in altar and from some other sources"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:mystery_stew",
+			"text": "BEST but also most expensive way to level up. Big chunks of xp but can also be used in some recipes. It can roll multiple version that can give diffrent kind amount of xp. 20/40/60/99 are the options."
+		}
+    ]
+}

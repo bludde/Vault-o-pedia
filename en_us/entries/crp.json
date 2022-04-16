@@ -1,0 +1,14 @@
+{
+    "name": "Notable Combinations",
+    "icon": "the_vault:perfect_alexandrite",
+    "category": "patchouli:2perfecting_your_cystals",
+    "pages": [
+        {
+            "type": "text",
+			"url": "https://vaulthunters.gg/guide#modifiers",
+			"link_text": Modifiers,
+			"text": "CRP
+			LUCK"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Vault Portal",
+    "icon": "minecraft:blackstone",
+    "category": "patchouli:1vault_altar",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "multiblock",
+			"name": "Vault Portal",
+			"enable_visualize": true,
+			"multiblock": {
+				"pattern": [
+					[ " BB "],
+					[ "B  B"],
+					[ "B  B"],
+					[ "B  B"],
+					[ " 0B "]
+				],
+				"mapping": {		
+				"B": "minecraft:blackstone",
+				"0": "minecraft:blackstone"
+				}
+			}
+		}
+    ]
+}

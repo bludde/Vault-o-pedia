@@ -1,0 +1,15 @@
+{
+    "name": "Identification Tome",
+    "icon": "the_vault:identification_tome",
+    "category": "patchouli:4vault_gear",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "crafting",
+			"recipe": "the_vault:identification_tome"
+		}
+    ]
+}

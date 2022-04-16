@@ -1,0 +1,6 @@
+{
+    "name": "The Goal",
+    "description": "The goal of Vault Hunters is pretty simple; collect 25 unique artifacts to unlock the Final Vault, then complete it without dying to beat the game. To get there however, is a bit more in-depth…",
+    "icon": "the_vault:unidentified_artifact",
+	"sortnum": 10
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Room Runes",
+    "icon": "the_vault:vault_rune_xmark",
+    "category": "patchouli:2perfecting_your_cystals",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/bestiary",
+			"link_text": Bestiary,
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "spotlight",
+			"item": "the_vault:vault_rune_xmark"
+		}
+    ]
+}

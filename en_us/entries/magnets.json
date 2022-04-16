@@ -1,0 +1,26 @@
+{
+    "name": "Magnets",
+    "icon": "the_vault:vault_magnet_weak",
+    "category": "patchouli:0getting_started",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Magnets make your life much better, they take items that drop on the floor and plop them in your inventory. They run on a durability per item collected and can be repaired in an anvil with Magnetite."
+        },
+		{
+			"type": "crafting",
+			"recipe": "crafttweaker:the_vault_vault_magnet_weak",
+			"text": "Cheap an functional magnet, get it as soon as you can and rightclick with it in your hand to aktivate it"
+		},
+		{
+			"type": "crafting",
+			"recipe": "crafttweaker:the_vault_vault_magnet_strong",
+			"text": "Strongest magnet you can craft, good range and very instantly plop items in to your inventory"
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:vault_magnet_omega",
+			"text": "This is the best vault magnet you can get, but it can only be found as loot"
+		}
+    ]
+}

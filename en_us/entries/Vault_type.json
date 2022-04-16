@@ -1,0 +1,11 @@
+{
+    "name": "Vault Types",
+    "icon": "the_vault:obelisk",
+    "category": "patchouli:1vault_altar",
+    "pages": [
+        {
+            "type": "text",
+			"text": "New types of objective appear in vaults after leveling, new once will appear at 25 and others can be applied by different means. Like seals that need to be applied as a first thing on your crystal, or maybe the crazy CAKE vault."
+        }
+    ]
+}

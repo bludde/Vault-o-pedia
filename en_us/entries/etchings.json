@@ -1,0 +1,17 @@
+{
+    "name": "Etchings",
+    "icon": "the_vault:etching",
+    "category": "patchouli:4vault_gear",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/guide#etchings",
+			"link_text": Etchings,
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "spotlight",
+			"item": "the_vault:etching"
+		}
+    ]
+}

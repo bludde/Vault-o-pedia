@@ -1,0 +1,27 @@
+{
+    "name": "Ethernals",
+    "icon": "the_vault:cryo_chamber",
+    "category": "patchouli:6skills&abilitys",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "crafting",
+			"recipe": "the_vault:cryo_chamber"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:life_scroll"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:full_pizza"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:crystal_burger"
+		}
+    ]
+}

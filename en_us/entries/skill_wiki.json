@@ -1,0 +1,13 @@
+{
+    "name": "Wiki Skills & Talents",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:6skills&abilitys",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/skills",
+			"link_text": "Skills & Talents",
+			"text": "On this page you can find information about what all skills and talents do"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Knowledge Star",
+    "icon": "the_vault:knowledge_star",
+    "category": "patchouli:7mods",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/bestiary",
+			"link_text": Bestiary,
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "crafting",
+			"recipe": "the_vault:knowledge_star"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:star_core"
+		},
+		{
+			"type": "spotlight",
+			"item": "the_vault:star_essence"
+		},
+		{
+			"type": "crafting",
+			"recipe": "the_vault:star_shard"
+		}
+    ]
+}

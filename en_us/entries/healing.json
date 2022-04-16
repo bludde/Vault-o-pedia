@@ -1,0 +1,15 @@
+{
+    "name": "Healing in Vaults",
+    "icon": "minecraft:golden_apple",
+    "category": "patchouli:0getting_started",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Inside vaults healing is very diffrent then normal overworld. You will not regenereate health unless you use a potion. Food is still needed but only affect starving and springting. So bring plenty of potion of instant health or golden apples to heal in vaults."
+        },
+		{
+			"type": "crafting",
+			"recipe": "crafttweaker:goldenapple"
+		}
+    ]
+}

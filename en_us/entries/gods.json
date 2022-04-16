@@ -1,0 +1,13 @@
+{
+    "name": "Gods",
+    "icon": "the_vault:idol_timekeeper",
+    "category": "patchouli:10the_goal",
+    "pages": [
+        {
+            "type": "link",
+			"url": "https://vaulthunters.gg/guide#gods",
+			"link_text": Gods,
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        }
+    ]
+}

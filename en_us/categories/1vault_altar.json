@@ -1,0 +1,6 @@
+{
+    "name": "Vault Altar",
+    "description": "To get started running vaults you need a Vault Crystal and for that you need to craft it in an altar, here you can find information about how to make a altar and to some degree use it.",
+    "icon": "the_vault:vault_altar",
+	"sortnum": 1
+}

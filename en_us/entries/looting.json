@@ -1,0 +1,15 @@
+{
+    "name": "What to loot in vaults",
+    "icon": "the_vault:legendary_treasure_normal",
+    "category": "patchouli:0getting_started",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Many of the mobs you see in the vault are the same as vanilla but somewhat tweaked, you can find more information on this link."
+        },
+		{
+			"type": "relations",
+		"entries": ["cata","choice&regret","magnets","relics","repair","ores","money"]
+		}
+    ]
+}
